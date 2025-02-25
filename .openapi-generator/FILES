@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 api/openapi.yaml
@@ -243,5 +242,4 @@ model_zone_forecast_periods_inner.go
 model_zone_geo_json.go
 model_zone_state.go
 response.go
-test/api_default_test.go
 utils.go
